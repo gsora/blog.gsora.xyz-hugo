@@ -1,0 +1,22 @@
+<html>
+  <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ .Title }}</title>
+
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/styles.css">
+  </head>
+  <body>
+    <div id="article">
+      <h1>{{.Title}}</h1>
+      <ul class="posts">
+	{{ range .Data.Pages }}
+	<li><span><a href="{{ .RelPermalink }}">{{ .Title }}</a><time class="pull-right post-list">{{ .Date.Format "Mon, Jan 2, 2006" }}</h4></time></span></span></li>
+{{ end }}
+</ul>
+
+</body>
+</html>
