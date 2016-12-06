@@ -11,7 +11,7 @@ cd public
 git add -A
 
 # Commit changes.
-msg=$(git log --oneline -n 1 | awk '{for (i=2; i<NF; i++) printf $i " "; print $NF}')
+msg="updated: $(date)"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
