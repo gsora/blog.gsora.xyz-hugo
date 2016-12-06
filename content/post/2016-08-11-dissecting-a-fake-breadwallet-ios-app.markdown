@@ -22,9 +22,7 @@ iOS is a fairly secure platform, but this fake entity found a method to circumve
 
 These fake versions tend to have the same behaviour: they're almost identical to official apps in both look and functionality, but they steal coins instead.
 
-![apps]
-
-[apps]: /assets/images/breadywallet-apps.png
+<a href="/assets/images/breadywallet-apps.png"><img src="/assets/images/breadywallet-apps.png" style="margin: 0 auto; display: block; width:50%"></a>
 
 ## iOS application reverse engineering 101
 
@@ -36,9 +34,7 @@ This way it's far more easier to decrypt a packaged AppStore binary, and it's po
 
 A quick search on the AppStore for "breadwallet" gave me this interesting clone called "breadywallet" (notice the extra 'y'), that appears as "Hangman" on the SpringBoard.
 
-![appstore]
-
-[appstore]: /assets/images/breadywallet-appstore.png
+<a href="/assets/images/breadywallet-appstore.png"><img src="/assets/images/breadywallet-appstore.png" style="margin: 0 auto; display: block; width:50%"></a>
 
 Of course, I already downloaded (and used with much success) the official application on my device.
 
