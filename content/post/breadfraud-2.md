@@ -1,10 +1,12 @@
 +++
-title = "breadfraud 2"
+title = "Breadfraud 2!"
 date = "2016-12-06T13:00:59+01:00"
 
 +++
 
 Seems like someone is still trying to scam innocent Bitcoin users through fake Breadwallet clones published on the Apple AppStore.
+
+<!--more-->
 
 This time, they got smarter: they're using a number of destination addresses instead of one, thus doing some kind of "mixing".
 
