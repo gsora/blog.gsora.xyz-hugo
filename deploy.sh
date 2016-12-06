@@ -11,12 +11,11 @@ cd public
 git add -A
 
 # Commit changes.
-msg="rebuilding site `date`"
+msg=$(git log --oneline -n 1 | awk '{for (i=2; i<NF; i++) printf $i " "; print $NF}')
 if [ $# -eq 1 ]
   then msg="$1"
 fi
-git commit -m $(git log --oneline -n 1 | awk '{for (i=2; i<NF; i++) printf $i " "; print $NF}')
-
+git commit -m $msg
 # Push source and build repos.
 git push origin master
 
