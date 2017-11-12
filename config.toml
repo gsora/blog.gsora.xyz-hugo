@@ -2,7 +2,7 @@ disablePathToLower = true
 languageCode = "en-us"
 disqusShortname = "gsorasplace"
 title = "gsora's place"
-baseurl = "http://blog.gsora.xyz"
+baseurl = "https://blog.gsora.xyz"
 canonifyurls = true
 theme = "poole-gsora"
 
