@@ -46,7 +46,7 @@ Obviously this use case is just a small-scale example, but I think a serverless 
 
 [^4]: which usually doesn't have money for sysadmins...
 
-I chose AWS Lambda over e.g. Google Cloud Platform because even though I am tech-savy enough to write, deploy and maintain my own servers and applications running on them, I couldn't understand **how to run software, or even spin up a VM on their invrastructures**: the UI is just too much of a mess right now to even bother running something on GCP.
+I chose AWS Lambda over e.g. Google Cloud Platform because even though I am tech-savy enough to write, deploy and maintain my own servers and applications running on them, I couldn't understand **how to run software, or even spin up a VM on their infrastructures**: the UI is just too much of a mess right now to even bother running something on GCP.
 
 If I wanted to tinker, I would have just rented a VPS.
 
