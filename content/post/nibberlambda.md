@@ -74,7 +74,7 @@ func Handle(evt interface{}, ctx *runtime.Context) (string, error) {
 }
 ```
 
-Notice how the `Handle()` function accepts an empty interface type `evt` variable, and a context.
+Notice how the `Handle()` function accepts an empty interface type `evt` parameter, and a context.
 
 The function must return something, but because nibberbot doesn't really spit out any data I'll just make sure to return an empty string, and log every error.
 
