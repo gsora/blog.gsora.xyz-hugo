@@ -6,5 +6,6 @@ baseurl = "https://blog.gsora.xyz"
 canonifyurls = true
 theme = "poole-gsora"
 #pygmentsCodeFences = true commented out until i fix my template
+pygmentsCodeFences = true
 [permalinks]
   post = "/:title/"
