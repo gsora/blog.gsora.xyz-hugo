@@ -5,6 +5,6 @@ if [ -z "$1" ]; then
 fi
 
 TITLE=$(echo $1 | sed 's/ /-/g')
-POST=post/$(date +%F-$TITLE.md) 
+POST=post/$TITLE.md 
 hugo new $POST
-nvim content/$POST
+mv content/$POST content/post/$(date +%F)-$TITLE.md
