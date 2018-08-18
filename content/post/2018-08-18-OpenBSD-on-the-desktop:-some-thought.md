@@ -1,5 +1,5 @@
 ---
-title: "OpenBSD on the Desktop: Some Thought"
+title: "OpenBSD on the Desktop: some thoughts"
 date: 2018-08-18T23:36:19+02:00
 draft: false
 ---
