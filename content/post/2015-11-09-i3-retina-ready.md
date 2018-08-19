@@ -16,4 +16,4 @@ You have to set the i3 font to exactly 2 times your desidered size, for example 
 
 [Here](https://github.com/gsora/i3-retina) you can find my i3 configuration for this machine.
 
-![](http://i.imgur.com/YZ6KtEf.png)
+![](https://i.imgur.com/YZ6KtEf.png)
