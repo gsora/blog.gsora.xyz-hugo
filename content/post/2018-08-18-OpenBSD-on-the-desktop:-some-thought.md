@@ -33,7 +33,7 @@ Just install a browser and you're ready to go.
 
 Manual pages on OpenBSD are real manuals, not an extension of the "--help" command found in most CLI softwares.
 
-They help you understanding inner workings of the operating system, without the need for an internet connection.
+They help you understand inner workings of the operating system, no internet connection needed.
 
 There are some trade-offs, too.
 
