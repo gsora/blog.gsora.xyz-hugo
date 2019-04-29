@@ -25,6 +25,7 @@ Right now, rig is made of an American Standard **Fender Stratocaster** and an Ib
 My audio gear consists of:
  - Fiio F9 Pro IEMs
  - Fiio E17K, used as desktop DAC/AMP
+ - Sony NW-A35 DAP with a 128GB microSD filled with high-quality FLACs
  - Sennheiser HD 380 Pro
  - M-Audio Fast Track Pro, mostly used to capture guitar and mix
 
