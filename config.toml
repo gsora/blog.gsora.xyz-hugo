@@ -1,6 +1,6 @@
 disablePathToLower = true
 languageCode = "en-us"
-disqusShortname = "gsorasplace"
+#disqusShortname = "gsorasplace"
 title = "gsora's place"
 baseurl = "https://blog.gsora.xyz"
 canonifyurls = true
