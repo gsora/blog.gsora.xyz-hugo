@@ -23,6 +23,7 @@ Talking about non-*CS things*, I am a guitarist and wannabe-audiophile.
 Right now, rig is made of an American Standard **Fender Stratocaster** and an Ibanez RG870QMZ.
 
 My audio gear consists of:
+
  - Fiio F9 Pro IEMs
  - Fiio E17K, used as desktop DAC/AMP
  - Sony NW-A35 DAP with a 128GB microSD filled with high-quality FLACs
